@@ -1,2 +1,1 @@
-# WT-5
-Web Technology Practical Assignments for the department of computer science in 3rd year(6th-semester)...
+
